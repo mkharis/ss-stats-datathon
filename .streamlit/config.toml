@@ -1,0 +1,6 @@
+[client]
+showErrorDetails = false
+showSidebarNavigation = false
+
+[theme]
+backgroundColor="#F7e9D5"
